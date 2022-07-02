@@ -1038,6 +1038,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rosebirthday
 
 
+
 ╭─❒ 「 Textpro Menu 」
 ├ ${prefix}halloween2 text|text2
 ├ ${prefix}horror text|text2
@@ -2129,6 +2130,7 @@ exports.tqto = () =>{
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
+
 `
 }
 
@@ -2392,7 +2394,7 @@ exports.storemenu = (prefix) =>{
 
 
 exports.soundmenu = (prefix) =>{
-return`╭─❒ 「 Sound Menu 」
+return`╔═*..✧ SOUND MENU ✧..*═╗
 ├ ${prefix}sound1
 ├ ${prefix}sound2
 ├ ${prefix}sound3
@@ -2462,6 +2464,7 @@ return`╭─❒ 「 Sound Menu 」
 ├ ${prefix}sound67
 ├ ${prefix}sound68
 ├ ${prefix}sound69
-╰❒ ${prefix}sound70
+├ ${prefix}sound70
+╚═*.·:·.✧ ✦ ✧.·:·.*═╝
 `
 }
